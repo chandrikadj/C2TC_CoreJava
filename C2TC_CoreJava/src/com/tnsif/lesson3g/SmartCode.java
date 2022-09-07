@@ -34,5 +34,4 @@ public class SmartCode {
 		// TODO Auto-generated method stub
 		CarOne obj = new CarOne("Seltos",100);
 	}
-
 }

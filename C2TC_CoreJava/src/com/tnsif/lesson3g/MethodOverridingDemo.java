@@ -1,8 +1,4 @@
 package com.tnsif.lesson3g;
-
-public class MethodOverridingDemo {
-
-}package com.tnsif.lesson3g;
 //program to demonstrate Method overiding
 //Parent class
 class OneA
@@ -24,7 +20,7 @@ class TwoA extends OneA
 	
 }
 
-public class MethodOveridingDemo {
+public class MethodOverridingDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
